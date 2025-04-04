@@ -8,12 +8,12 @@ This repository contains my personal solutions to coding problems from [LeetCode
 
 ## 📌 About
 
-- 👨‍💻 **Author:** [Your Name](https://github.com/yourusername)
-- 🧮 **Problems Solved:** X+ and counting!
-- 📚 **Languages Used:** Python | JavaScript | C++ | Java | etc.
-- 🧩 **Topics:** Arrays, Strings, Trees, Dynamic Programming, Graphs, and more.
+- 👨‍💻 **Author:** Rujula More(https://github.com/rujulamore)
+- 🧮 **Problems Solved:** 59+ and counting!
+- 📚 **Languages Used:** Python etc.
+- 🧩 **Topics:** Arrays, Strings, Trees,Linked Lists, Graphs, and more.
 
 ---
 
-## 📂 Repository Structure
+
 
