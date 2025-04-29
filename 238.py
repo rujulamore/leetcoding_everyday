@@ -12,9 +12,18 @@ class Solution:
         # return ans
         #print(nums[3:4])
 
+        # answer=[]
+        # preffix=1
+        # for i in range(len(nums)):
+        #     if i==0:
+        #         preffix=1
+        #     else:
+        #         preffix=preffix*nums[i-1]
+        #     suffix=prod(nums[i+1:len(nums)+1])
+        #     answer.append(preffix*suffix)
+        # return answer
 
-        
-        
+
 
         output=[]
         l=len(nums)-1
